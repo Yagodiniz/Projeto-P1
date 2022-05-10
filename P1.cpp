@@ -2,7 +2,7 @@
 #include <string>
 using namespace std;
 
-#define CAD 3
+#define CAD 10
 
 class Data
 {
